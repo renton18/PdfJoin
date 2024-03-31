@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PdfJoin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HImg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ann.jpg</Value>
+    </Setting>
+    <Setting Name="HImgX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="HImgY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="HSaveFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">注文書_案.pdf</Value>
+    </Setting>
+    <Setting Name="MImg1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mImg1.jpg</Value>
+    </Setting>
+    <Setting Name="MImg1X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MImg1Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MImg2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mImg2.jpg</Value>
+    </Setting>
+    <Setting Name="MImg2X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="MImg2Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MSaveFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">見積もり.pdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
